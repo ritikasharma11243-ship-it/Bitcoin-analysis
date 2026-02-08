@@ -15,7 +15,9 @@ Visualization of Open, High, Low, Close prices
 Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 **▶️ Run the Project**
+
 pip install pandas numpy matplotlib seaborn
+
 jupyter notebook Bitcoin_analysis.ipynb
 
 **🎯 Goal**
